@@ -117,4 +117,4 @@ NEXT-JS-AUTH-TEMPLATE/
 💡 **Pro tip:** Use this template as a starting point for any modern **Next.js app with authentication**.  
 
 ---
-📌 Maintained by [Your Name](https://github.com/your-username)
+📌 Maintained by [Saniya](https://github.com/Saniya2229)
